@@ -12,7 +12,7 @@
 
 - Herb Sutter:
     - [Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/Exceptional-Engineering-Programming-Problems-Solutions/dp/0201615622)
-    - [Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/Exceptional-Style-Engineering-Programming-Solutions/dp/0201760428) 
+    - [Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/Exceptional-Style-Engineering-Programming-Solutions/dp/0201760428)
     - [More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/More-Exceptional-Engineering-Programming-Solutions/dp/020170434X)
 
     The collection of books covers many tasks related to designing or writing code in C++, offering a range of effective solutions. Many of these solutions have been deemed classic idioms and are widely used in various projects.
@@ -21,14 +21,13 @@
 
     The newest and relevant book about C++ metaprogramming, specifically templates, is a comprehensive work that describes relevant techniques and foundations added in recent standards, including C++17. If you're looking to write generic and parameterized code, this book will become an indispensable resource for you, offering insights into the basics of templates as well as a multitude of nuances related to different techniques.
 
-
 ## :bicyclist: Optimization for C++ applications
 
 - [Kurt Guntheroth - Optimized C++: Proven Techniques for Heightened Performance](https://www.amazon.com/Optimized-Proven-Techniques-Heightened-Performance/dp/1491922060)
 
     This book is a guidebook for improving the performance of C++ applications. Some of the advice in this book is based on various idioms and tricks outlined in books by Herb Sutter or Scott Meyers. It is recommended to read this book after reading the previously mentioned books.
 
-- [Agner Fog - Optimizing software in C++](https://agner.org/optimize/optimizing_cpp.pdf) or [Optimization manuals](https://agner.org/optimize) 
+- [Agner Fog - Optimizing software in C++](https://agner.org/optimize/optimizing_cpp.pdf) or [Optimization manuals](https://agner.org/optimize)
 
     Practical-oriented guides provide comprehensive information about the potential optimization possibilities for applications developed in C++ or related to interaction with the CPU, memory, etc.
 
@@ -39,11 +38,11 @@
     This book is a classic guidebook on design patterns. Each pattern is described in detail and advised on its appropriate use case. This book is a good follow-up to "Head First Design Patterns" by Eric Freeman. However, be prepared, as this book is more complex than the previous one.
 
 - [Gary McLean Hall - Adaptive Code](https://www.amazon.com/Adaptive-Code-Developer-Best-Practices/dp/0136891446)
-    
+
     This book is an excellent resource for understanding the SOLID principles of software design. The explanations are presented in simple terms, making them easy to understand. The code examples, which are written in C#, are also simple and serve to illustrate the principles effectively.
 
 - [Robert Martin - Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
- 
+
     This book, written by Uncle Bob, provides guidance on how to approach software design with a focus on architecture. It emphasizes the importance of thinking about the architecture of an application or component before starting to code. The book provides insights on what to consider when analyzing the design of a solution and helps prevent common mistakes in software design. This book is a great starting point for individuals interested in architectural tasks in software design who are seeking to gain a deeper understanding of the field. The knowledge contained in this book is widely used among engineers and will help them in avoiding widespread mistakes.
 
 - [Samary Baranov - Finite State Machines and Algorithmic State Machines: Fast and Simple Design of Complex Finite State Machines](https://www.amazon.com/Finite-State-Machines-Algorithmic-Complex-ebook/dp/B078RYYBCJ)
@@ -53,7 +52,6 @@
 - [Vladimir Khorikov - Unit Testing Principles, Practices, and Patterns: Effective testing styles, patterns, and reliable automation for unit testing, mocking, and integration testing with examples in C#](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns-ebook/dp/B09782L692)
 
    The book provides insights into the best practices and common anti-patterns that surround the topic of unit testing. After reading this book, armed with your newfound skills, you’ll have the knowledge needed to become an expert at delivering successful projects that are easy to maintain and extend, thanks to the tests you build along the way.
-
 
 ## :zap: Operating systems
 
@@ -72,7 +70,6 @@
 - [Ulrich Drepper - What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
     This article provides a comprehensive overview of how PC memory works and why it operates in the manner described. It presents not only high-level information, but also delves into low-level aspects, making it ideal for those who want to delve deeper into the subject matter.
-
 
 ## :globe_with_meridians: Computer networks
 

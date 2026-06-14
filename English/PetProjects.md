@@ -4,7 +4,6 @@ Pet-projects are a great opportunity to gain practical experience while learning
 
 Finding and selecting the right idea for a pet-project can be challenging. To help overcome this, we've compiled a list of links and ideas to get you started. After reading through this list, you should be able to choose the most appropriate idea or be inspired to create one of your own!
 
-
 ## :arrows_counterclockwise: External links
 
 * [Google Summer of Code](https://summerofcode.withgoogle.com/archive)
@@ -18,7 +17,6 @@ The repository holds a collection of pet projects for different programming lang
 * [Programming challenges](https://github.com/JeremyJaydan/programming-challenges) - [PNG image](https://raw.githubusercontent.com/JeremyJaydan/programming-challenges/main/media/programming-challenges-v4.0.png)
 
 The Roulette of Ideas for Pet Projects allows you to set the desired complexity level and spin the wheel. The result of the spin will determine the task for you to solve, chosen randomly. :)
-
 
 ## :boom: The list of pet-project ideas
 
@@ -41,9 +39,9 @@ Below is a list of classic video games that don't contain complex AI or dynamic 
 - [Network games for 2-4 players: ping-pong, poker, chess, battleships, etc.](https://en.wikipedia.org/wiki/Online_game)
 
 It is recommended to read the following sources that contain more information about various algorithms for gamedev. They can be useful for one of the games mentioned above, or for your own ideas:
+
 - https://www.redblobgames.com/
 - http://www.squidi.net/three/
-
 
 ---
 
@@ -60,7 +58,7 @@ Here are some examples of potential projects for beginners:
 - Retrieving a list of "pull requests" or "issues" from any GitHub repository
 - Automating routine tasks, such as various calculations and generating reports in the form of tables.
 
---- 
+---
 
 ### :arrow_forward: Student applications
 

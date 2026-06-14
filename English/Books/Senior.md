@@ -4,7 +4,6 @@
 
 - There are no specific recommendations for books for senior level students. At this level, it is assumed that you have a good understanding of the fundamentals of C++. The only challenge is to stay updated on the latest standards, new features, and tools in the C++ ecosystem.
 
-
 ## :muscle: Team management
 
 - [J. Hank Rainwater - Herding Cats: A Primer for Programmers Who Lead Programmers ](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
@@ -26,7 +25,6 @@
 - [Daniel Kahneman - Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 
     The classic book about the logical fallacies in human thinking is a must-read. It is useful in helping you take a more rational approach in making decisions, by considering the cognitive biases and distortions in human thought. This is an essential skill for specialists involved in making critical decisions. If the book seems dull, you can try looking for alternative works that discuss cognitive biases.
-
 
 ## :clipboard: Requirements and software architecture
 

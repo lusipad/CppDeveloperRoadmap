@@ -6,7 +6,6 @@ It's a developer who understands the technical context of software development a
 
 In general, the middle developer solves technical tasks, and compared to a Junior, this person can complete work without help or with minimal assistance from a Senior/Lead engineer.
 
-
 ## :computer: What coding abilities are expected?
 
 - Does not see a compiler and a programming language as a "magic box" anymore; able to solve any obstacles or surprises by generating hypotheses, validating them, and confirming or rejecting them.
@@ -19,8 +18,8 @@ In general, the middle developer solves technical tasks, and compared to a Junio
     - compilation (compilers, build systems, and libraries)
     - testing (testing frameworks and strategies)
     - shipment/deployment and execution on a target system.
-- Has a strong knowledge of computer science foundations, including data structures, graphs, finite machines, and algorithms.
 
+- Has a strong knowledge of computer science foundations, including data structures, graphs, finite machines, and algorithms.
 
 ## :bust_in_silhouette: What general skills are expected?
 
@@ -30,7 +29,6 @@ In general, the middle developer solves technical tasks, and compared to a Junio
 - Can articulate and share opinions with other team members
 - Has experience working with various methodologies such as Kanban, Agile/Scrum, Waterfall, etc.
 - Is willing to assist and support other team members.
-
 
 ## :eyes: Tips and recommendations
 

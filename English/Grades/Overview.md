@@ -3,6 +3,7 @@
 > Grading is an approach to classify developers based on their skills and experience. Through grading, it is possible to understand how to differentiate the difficulty of tasks and the expected set of skills required to handle them.
 
 Nowadays, you can encounter the following common grading approach. The following levels can be marked:
+
 - Junior;
 - Middle;
 - Senior.
@@ -12,10 +13,10 @@ Each company has its own vision of developer grading and a set of skills and res
 **Example:** You can check this website to get knowledge about leveling systems in different companies: [levels.fyi](https://www.levels.fyi/)
 ![](Source/GradeTable.PNG "GradeTable")
 
-
 ## Level Descriptions
 
 You can read these articles to gain understanding about each level and its common expectations:
+
 - :alien: [Pre-Junior C++](PreJunior.md)
 - :yum: [Junior C++](Junior.md)
 - :sunglasses: [Middle C++](Middle.md)

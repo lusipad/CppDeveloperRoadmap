@@ -3,6 +3,7 @@
 ## :question: Who is it?
 
 It is someone who is familiar with the syntax of the language and can write a simple program without the use of third-party libraries. The program performs simple procedures such as:
+
 - arithmetic operations
 - file manipulation: either reading or writing
 - wait for the keyboard input

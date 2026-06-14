@@ -6,13 +6,12 @@
 
     The book is a classic in the motivation genre for beginners. Chad Fowler shares his experience on how to become a professional programmer and navigate the IT industry.
 
-
 ## :bar_chart: Computer Science
 
 - [Wladston Ferreira Filho - Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 
     The book provides a comprehensive overview of various basic concepts in Computer Science, including mathematics, algorithms, databases, and the hardware basics of computers. It serves as an ideal starting point to discover and prioritize areas of interest in the field.
-    
+
 - [Charles Petzold - Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
     Before starting your study of C++, it's recommended to read this book first. It provides a simple explanation of how a computer works, avoiding complex technical or theoretical aspects. The concepts presented in this book are fundamental and will remain relevant in the future. It will also aid in your understanding of the foundational ideas of C++ later on. This book serves as a complement to the previous one as it delves deeper into the workings of computers.
@@ -20,7 +19,6 @@
 - [Aditya Bhargava  - Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 
     The book provides a brilliant introduction to the world of computer science algorithms and data structures for beginners. It also includes a list of tasks that will help you implement your first algorithms.
-
 
 ## :pencil: C++
 
@@ -35,7 +33,6 @@
 - [Andrew Koenig - Accelerated C++: Practical Programming by Example](https://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X)
 
     This book is an excellent choice for beginners. Each chapter provides a comprehensive description of different foundational aspects of the language. Upon completion of each chapter, the reader is offered a set of exercises to practice and reinforce their understanding. The book covers the most fundamental topics that can be applied in future studies of new language mechanisms. It is recommended to read this book after studying Prata's or Lippman's books or alongside them.
-
 
 ## :electric_plug: Hard skills
 

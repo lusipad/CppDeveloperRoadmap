@@ -26,7 +26,7 @@
 
 ## :exclamation: Альтернативные источники для изучения С++
 
-- [Hackingcpp.com](https://hackingcpp.com/index.html) - Портал с различным набором структурированных материалов по C++: книги, шпаргалки, видео с конференций 
+- [Hackingcpp.com](https://hackingcpp.com/index.html) - Портал с различным набором структурированных материалов по C++: книги, шпаргалки, видео с конференций
 - [Awesomecpp.com](https://awesomecpp.com) - Коллекция различных ресурсов по C++.
 - [Cpp Con (back to basics)](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e)
 - [Learncpp.com](https://www.learncpp.com/) - C++ курс для изучения основ языка. Обновляется и дополняется.
@@ -40,4 +40,3 @@
 ---
 
 [**На главную страницу**](README.md)
-

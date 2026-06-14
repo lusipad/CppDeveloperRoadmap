@@ -10,7 +10,6 @@ It is important to understand why modern standards are primarily focused on fixi
 
 C++, like other languages, evolves by incorporating popular ideas from computer science and successful features from other languages. It is important to study such constructs and use them as necessary, but first, it is crucial to study the foundations that were established by older standards (C++11/C++14), which are described in most modern books for beginners.
 
-
 ## :question: Where to get an overview of the latest C++ standards features?
 
 - Presentations among [C++ conferences](CommunitySources.md)
@@ -28,7 +27,6 @@ C++, like other languages, evolves by incorporating popular ideas from computer 
 - Keep in mind that even experienced developers encounter problems and can get stuck, so taking a break and returning to the task later is a good idea.
 - Finding like-minded individuals who are also starting their learning path can make the process more enjoyable, as you can share knowledge and experience with each other, and develop teamwork skills. In today's world, almost everywhere you will have to work as a team, so it is helpful to develop these skills.
 - Having an experienced mentor can also be valuable, as he can guide you to avoid common pitfalls and save you time.
-
 
 ---
 

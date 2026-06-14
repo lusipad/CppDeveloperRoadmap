@@ -14,7 +14,6 @@
 
     Despite its age, this book can still be considered a developer's "bible" as it provides a comprehensive overview of the IT industry. It offers a wealth of practical advice on how to grow and develop as a top-tier professional.
 
-
 ## :bar_chart: Computer Science
 
 - [Thomas H. Cormen - Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
@@ -34,7 +33,6 @@
 - [Herb Sutter, Andrei Alexandrescu - C++ Coding Standards: 101 Rules, Guidelines, and Best Practices](https://www.amazon.com/Coding-Standards-Rules-Guidelines-Practices/dp/0321113586)
 
     This small book outlines common best practices for writing code in commercial projects. It's a compilation of experiences gathered from various companies. This book was also a foundation for the [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines). It is recommended to start with this book first before visiting the C++ Core Guidelines. It will give you a first impression of code guidelines used in projects. After you have read the book, you can then visit the C++ Core Guidelines website to get the latest approved approaches.
-
 
 ## :electric_plug: Hard skills
 

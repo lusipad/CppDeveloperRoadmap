@@ -12,7 +12,6 @@ Newborn developers often have a limited understanding of the tools available to 
 
     A powerful and efficient editor for text files and source code is available. It has a rich library of extensions that enables customization for personal preferences. It can also be configured to work with source code, allowing you to compile, run, and debug your code with ease. Additionally, it has a powerful search engine for files and folders, making it easier to search, read, and work with large projects.
 
-
 * :arrow_forward: **Notepad++**
 
     Site: https://notepad-plus-plus.org/
@@ -20,7 +19,6 @@ Newborn developers often have a limited understanding of the tools available to 
     Price: free
 
     A lightweight editor for text files and source code, it supports syntax highlighting for common programming languages. Compared to Visual Studio Code, it is more convenient for quickly opening and viewing files and due to its lightweight design, it is comfortable to work with a large number of text files.
-
 
 ## :open_file_folder: IDE (Integrated Development Environment)
 
@@ -32,24 +30,21 @@ Newborn developers often have a limited understanding of the tools available to 
 
     An integrated development environment (IDE) from Microsoft, providing a comprehensive set of tools including a code editor, compiler, debugger, and profiler, for various programming languages and cross-platform development. A great option for beginners, as its modern interface is user-friendly and requires minimal customization out of the box.
 
-
 * :arrow_forward: **Qt Creator IDE**
 
     Site: https://www.qt.io/product/development-tools
-    
+
     Price: free for open source projects (more details: [Qt Open Source](https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5))
 
     Initially, Qt Creator was positioned as an IDE for developing graphical interfaces for C++ applications. Over time, the framework has acquired numerous capabilities and evolved into a comprehensive ecosystem for cross-platform development. It offers a vast library of primitives for various needs such as networking, graphical interface, database work, and handling popular formats like images and text files. Today, Qt Creator serves as a competitor to Visual Studio and is particularly popular among developers creating applications for various Linux distributions.
-
 
 * :arrow_forward: **Eclipse IDE**
 
     Site: https://www.eclipse.org/downloads/packages
 
     Price: free
-    
-    Eclipse is a highly capable multi-platform development environment, but it is also quite heavy. One of the key features of Eclipse is its modularity. The philosophy of Eclipse is that any developer can modify the development environment to fit their needs by connecting additional extensions. It is used as a foundation by some compiler developers for specialized OS or microcontrollers, such as the QNX real-time OS, Red-Hat Linux and more.
 
+    Eclipse is a highly capable multi-platform development environment, but it is also quite heavy. One of the key features of Eclipse is its modularity. The philosophy of Eclipse is that any developer can modify the development environment to fit their needs by connecting additional extensions. It is used as a foundation by some compiler developers for specialized OS or microcontrollers, such as the QNX real-time OS, Red-Hat Linux and more.
 
 * :arrow_forward: **JetBrains CLion IDE**
 
@@ -75,7 +70,6 @@ Newborn developers often have a limited understanding of the tools available to 
 
     An extension for Microsoft Visual Studio that provides additional features for working with source code, such as enhanced code highlighting and hints, increased information during debugging and coding, advanced search capabilities, and improved project navigation. It competes with JetBrains ReSharper.
 
-
 * :arrow_forward: **Incredibuild**
 
     Site: https://www.incredibuild.com
@@ -100,7 +94,6 @@ Newborn developers often have a limited understanding of the tools available to 
 
     A package manager and dependency manager for organizing C++ libraries and frameworks. It supports work on various platforms such as Windows and Linux, and has integration with tools such as CMake and Visual Studio.
 
-
 * :arrow_forward: **Ninja**
 
     Site: https://ninja-build.org
@@ -108,7 +101,6 @@ Newborn developers often have a limited understanding of the tools available to 
     Price: free
 
     Project build manager for C and C++ applications. The main advantage of this manager is quick project assembly. It supports cross-platform development and works with all popular compilers.
-
 
 ## :mag: Code analyzers
 
@@ -120,7 +112,6 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Cross-platform (Windows, Linux, MacOS) static code analyzer by PVS-Studio. The main aim of the analyzer is to analyze the source code for various errors that may go undetected by compilers or during code review. It helps reduce the number of errors related to language syntax and pitfalls.
 
-
 * :arrow_forward: **Cppcheck**
 
     Site: https://cppcheck.sourceforge.io
@@ -128,7 +119,6 @@ Newborn developers often have a limited understanding of the tools available to 
     Price: free
 
     A free code analyzer that helps you catch common errors in your source code that might be missed by the compiler or during code review. It is cross-platform and supports popular Linux distributions and Windows.
-
 
 * :arrow_forward: **Valgrind**
 
@@ -155,7 +145,6 @@ Newborn developers often have a limited understanding of the tools available to 
     Price: free
 
     A great free alternative for working with Git using a GUI. It has the same functionality as SmartGit, with the exception of the absence of its own editor for conflict resolution. However, this can be easily fixed by integrating Visual Studio Code or any other editor that can compare files. In all other respects, it completely duplicates the functionality of SmartGit: it is cross-platform and supports integration with popular repositories such as GitHub, Bitbucket, GitLab, etc.
-
 
 * :arrow_forward: **GitKraken**
 

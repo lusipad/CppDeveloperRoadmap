@@ -8,7 +8,6 @@ We have tried to answer these questions through the presented roadmap. The roadm
 
 It is recommended that you read the articles listed below before starting to explore the map.
 
-
 # :bookmark_tabs: Articles
 
 1. :flashlight: [Why was the roadmap created and for what purpose?](English/Rationale.md)
@@ -23,7 +22,6 @@ It is recommended that you read the articles listed below before starting to exp
 1. :triangular_ruler: [Language toolkit](English/Tooling.md)
 1. :gem: [More resources about C++: documentation, community links, etc.](English/CommunitySources.md)
 
-
 # :milky_way: Roadmap
 
 The roadmap is available in the following formats:
@@ -34,29 +32,31 @@ The roadmap is available in the following formats:
 Instructions on how to view and edit a graphML file can be found [here](English/Graph/README.md)
 
 # :key: License and conditions
+
 The roadmap is published under the license **CC BY-NC-SA 4.0**: [RUS](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru) || [ENG](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en). In a nutshell:
 
 - You may only share, adopt, or copy any portion of the presented materials if you provide a link to the original sources.
 - It's **PROHIBITED** to use any portion of the materials for any commercial purposes.
-
 
 # :mailbox: Feedback and communication
 
 In the event of any comments, proposals, or ideas, please do not hesitate to contact us. We truly value your support.
 
 You can reach us through one of the following channels via GitHub:
+
 - In case of any proposal or modification in the **repository** content - create a new PR in [Pull Requests](https://github.com/salmer/CppDeveloperRoadmap/pulls)
 - In case of any proposal or modification in the **Miro roadmap** - submit a new Issue in [Issues](https://github.com/salmer/CppDeveloperRoadmap/issues) (Unfortunately, the Miro framework does not have a history tracker and access to the roadmap is restricted. All changes are added manually after they have been reviewed and approved)
-
 
 # :telephone: Contacts
 
 Creators:
+
 - [Evgenii Melnikov](https://github.com/salmer),
 - [Dmitrii Dmitriev](https://github.com/DmitrievDmitriyA),
 - [Dmitriy Savin](https://github.com/SD57)
 
 Reviewers:
+
 - [Sergey Tyulenev](https://github.com/marleeeeeey),
 - [Konstantin Komarov](https://github.com/MolinRE),
 - [Sergey Skliar](https://github.com/SergeiSkliar)

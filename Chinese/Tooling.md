@@ -43,6 +43,7 @@
 ## :flashlight: 扩展
 
 * :arrow_forward: **JetBrains ReSharper C++**  
+
    JetBrains ReSharper C++ 是 Microsoft Visual Studio 的扩展程序之一，它增加了高级源代码处理功能，如扩展代码突出显示和提示、构建项目间依赖关系图、纠正常见错误推荐、调试期间改进信息、改进搜索并导航到项目等等，可与 Visual Assist 竞争。
 
 * :arrow_forward: **Visual Assist**  
