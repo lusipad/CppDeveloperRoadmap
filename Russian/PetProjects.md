@@ -14,7 +14,7 @@
 
 Репозиторий содержит коллекцию пет-проектов, собранные для различных языков программирования. Также включает обширный список идей для C++.
 
-* [Programming challenges](https://challenges.jeremyjaydan.com/) - [PNG image](https://challenges.jeremyjaydan.com/media/programming-challenges-v4.0.png)
+* [Programming challenges](https://github.com/JeremyJaydan/programming-challenges) - [PNG image](https://raw.githubusercontent.com/JeremyJaydan/programming-challenges/main/media/programming-challenges-v4.0.png)
 
 Рулетка с идеями для пет-проектов. Настраиваете ожидаемую сложность проекта и запускаете рулетку. Дальше случайность решит за вас, какую задачу придется решать :)
 
@@ -54,7 +54,7 @@
 * Калькулятор
 * Файловый менеджер
 * Конвертер валют
-* Получение списка Pull-Requests или Issues в любом Github репозитории
+* Получение списка pull requests или issues в любом GitHub репозитории
 * Автоматизация рутинных: различные вычисления и формирование отчетов в виде таблиц
 
 --- 

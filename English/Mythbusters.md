@@ -4,7 +4,7 @@
 
 C++'s not dead.
 
-In fact, it has consistently ranked among the top programming languages in various ratings, such as the [Tiobe](https://www.tiobe.com/tiobe-index/) index. The perception that C++ is a "dead language" emerged during the early 2000s, when the language standardization committee was inactive. However, C++ has since undergone a resurgence, with new features and functionality being added every three years since the C++11 standard. Despite this, there are still those who perpetuate the myths and legends of C++ being a difficult and problematic language, often because they haven't kept up with the developments in the language or have only had limited exposure to it in their education.
+In fact, it has consistently ranked among the top programming languages in various ratings, such as the [TIOBE](https://www.tiobe.com/tiobe-index/) index. The perception that C++ is a "dead language" emerged during the early 2000s, when the language standardization committee was inactive. However, C++ has since undergone a resurgence, with new features and functionality being added every three years since the C++11 standard. Despite this, there are still those who perpetuate the myths and legends of C++ being a difficult and problematic language, often because they haven't kept up with the developments in the language or have only had limited exposure to it in their education.
 
 ## :question: Real programmers learn C++ using Linux/Vim/gcc
 
@@ -34,11 +34,11 @@ The modern C++ standard, which exceeds 2000 pages, requires payment for access t
 
 More likely no than yes.
 
-Modern C++ and the tooling that has emerged around the language allow avoiding the lion's share of problems related to undefined behavior. We can give a simple piece of advice: when unsure what a particular construct does, read about it on [CppReference](https://en.cppreference.com), [StackOverflow](https://stackoverflow.com/) or other dedicated resources. If you're still in doubt after reading, try rewriting the code in a simpler manner to avoid undefined behavior. There lies great power in simplicity.
+Modern C++ and the tooling that has emerged around the language allow avoiding the lion's share of problems related to undefined behavior. We can give a simple piece of advice: when unsure what a particular construct does, read about it on [CppReference](https://en.cppreference.com), [Stack Overflow](https://stackoverflow.com/) or other dedicated resources. If you're still in doubt after reading, try rewriting the code in a simpler manner to avoid undefined behavior. There lies great power in simplicity.
 
 ## :question: One needs to manage memory manually, there is no garbage collection in the language
 
-This is another urban legend from the "Old Guard," who stopped writing C++ before C++11 or those who superficially learned it in university and disregarded the latest standards. Modern C++ has a set of primitives in its standard library that are responsible for automatic memory allocation and deallocation. Manual memory management has fallen by the wayside. Many teams and companies even have the rule: "No raw pointers." Once again, do not neglect the modern tools and sanitizers, as they can detect possible memory leaks at the source code level.
+This is another urban legend from the "Old Guard," who stopped writing C++ before C++11 or those who superficially learned it in university and disregarded the latest standards. Modern C++ provides RAII, standard containers, and smart pointers that make ownership explicit and release resources automatically. Manual memory management has fallen by the wayside for most application code. Many teams and companies even have the rule: "No raw pointers." Once again, do not neglect the modern tools and sanitizers, as they can detect possible memory leaks at the source code level.
 
 ## :question: C++ is legacy area only
 

@@ -32,9 +32,9 @@
 
 ## :electric_plug: 硬技能
 
-- [MSDN](https://learn.microsoft.com/zh-cn/cpp/build/vscpp-step-0-installation?view=msvc-170)
+- [Microsoft Learn](https://learn.microsoft.com/zh-cn/cpp/build/vscpp-step-0-installation?view=msvc-170)
 
-如果你刚开始学习编程，建议在 Microsoft Visual Studio（社区版）IDE 中进行实践和做练习。它目前是针对初学者最友好易用性较高 IDE 之一，而且完全免费！这将使您专注于语言而不被开发环境所困扰。MSDN 上提供了一个有用指南，解释如何安装 Visual Studio、创建第一个控制台项目以及实现第一个应用程序。
+    如果你刚开始学习编程，建议在 Microsoft Visual Studio（社区版）IDE 中进行实践和做练习。它目前是针对初学者最友好的 IDE 之一，而且完全免费！这将使您专注于语言而不被开发环境所困扰。Microsoft Learn 上提供了一个有用指南，解释如何安装 Visual Studio、创建第一个控制台项目以及实现第一个应用程序。
 
 ---
 

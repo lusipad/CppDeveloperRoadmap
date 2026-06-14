@@ -37,8 +37,8 @@
 * :arrow_forward: **Eclipse IDE**  
      Eclipse 是一个功能强大的跨平台开发环境，但也相当沉重。Eclipse 的关键特性之一是其模块化。Eclipse 的哲学是任何开发人员都可以通过连接其他扩展来修改开发环境以适应他们的需求。它被某些编译器开发人员用作专门针对 OS 或微控制器（例如 QNX 实时操作系统，Red-Hat Linux 等）的基础。
 
-* :arrow_forward: **JetBrains Clion IDE**  
-     Clion 是来自 JetBrains 公司的强大跨平台 IDE。与其他 IDE 一样，它提供了全面的工具集，方便软件开发，并且非常适合 C 和 C++中进行跨平台开发。
+* :arrow_forward: **JetBrains CLion IDE**
+     CLion 是来自 JetBrains 公司的强大跨平台 IDE。与其他 IDE 一样，它提供了全面的工具集，方便软件开发，并且非常适合 C 和 C++ 中进行跨平台开发。
 
 ## :flashlight: 扩展
 
@@ -57,9 +57,9 @@
 
     这是一个用于分布式编译项目的应用程序/扩展，它将所有开发者工作站合并成一个单一的网络，提供使用数十台机器来组装和编译源代码的可能性。这可以加速大型项目的构建过程。
 
-## :electric_plug: Package managers and build systems
+## :electric_plug: 包管理器和构建系统
 
-* :arrow_forward: **Cmake**
+* :arrow_forward: **CMake**
 
     网址：https://cmake.org  
     价格：免费
@@ -78,9 +78,9 @@
     网址：https://ninja-build.org  
     价格：免费
 
-    PC 和 C++应用程序的项目构建管理器。该管理器的主要优点是快速项目组装。它支持跨平台开发，并与所有流行的编译器兼容。
+    C 和 C++ 应用程序的项目构建管理器。该管理器的主要优点是快速项目组装。它支持跨平台开发，并与所有流行的编译器兼容。
 
-## :mag: Code analyzers
+## :mag: 代码分析器
 
 * :arrow_forward: **PVS Studio**
 
@@ -89,7 +89,7 @@
 
     由 PVS-Studio 开发的跨平台（Windows、Linux、MacOS）静态代码分析器。该分析器的主要目标是对源代码进行分析，以检测编译器或代码审查期间可能未被发现的各种错误。它有助于减少与语言语法和陷阱相关的错误数量。
 
-* :arrow_forward: **Cpp Check**
+* :arrow_forward: **Cppcheck**
 
     网址：https://cppcheck.sourceforge.io  
     价格：免费
@@ -98,33 +98,33 @@
 
 * :arrow_forward: **Valgrind**
 
-    Site: https://www.valgrind.org  
+    网址：https://www.valgrind.org
     价格：免费
 
     一组工具，可以帮助您在应用程序运行时调查各种问题，例如内存泄漏和性能分析。它与多个 Linux 发行版兼容。
 
-## :floppy_disk: Git clients
+## :floppy_disk: Git 客户端
 
 * :arrow_forward: **SmartGit**
 
     网址：https://www.syntevo.com/smartgit/  
     价格：开源免费
 
-    一个完整的、跨平台的用于处理 Git 仓库的工具。开箱即用，提供以下功能：接收和发送对仓库的更改，查看更改历史记录，文本编辑器以解决冲突等。支持与所有流行的代码托管服务集成，如 GitHub、BitBucket、GitLab 等。
+    一个完整的、跨平台的用于处理 Git 仓库的工具。开箱即用，提供以下功能：接收和发送对仓库的更改，查看更改历史记录，文本编辑器以解决冲突等。支持与所有流行的代码托管服务集成，如 GitHub、Bitbucket、GitLab 等。
 
 * :arrow_forward: **Atlassian SourceTree**
 
     网址：https://www.sourcetreeapp.com/  
     价格：免费
 
-  一个很好的免费替代品，使用图形界面来处理 Git。它具有与 SmartGit 相同的功能，唯一不同之处是没有自己的编辑器用于冲突解决。但是，可以通过集成 Visual Studio Code 或任何其他可以比较文件的编辑器轻松解决此问题。在所有其他方面，它完全复制了 SmartGit 的功能：跨平台，并支持与流行存储库（如 GitHub、BitBucket、GitLab 等）集成。
+  一个很好的免费替代品，使用图形界面来处理 Git。它具有与 SmartGit 相同的功能，唯一不同之处是没有自己的编辑器用于冲突解决。但是，可以通过集成 Visual Studio Code 或任何其他可以比较文件的编辑器轻松解决此问题。在所有其他方面，它完全复制了 SmartGit 的功能：跨平台，并支持与流行存储库（如 GitHub、Bitbucket、GitLab 等）集成。
 
-* :arrow_forward: **Git Kraken**
+* :arrow_forward: **GitKraken**
 
     网址：https://www.gitkraken.com/  
     价格：开源免费
 
-    一款跨平台高效的客户端，适用于 Windows、Linux 和 MacOS。它支持与 GitHub、Bitbucket 和 Gitlab 集成，并具有日常工作所需的所有必要功能，如查看更改历史记录、提交和接收更改、在分支之间切换以及内置冲突解决编辑器。
+    一款跨平台高效的客户端，适用于 Windows、Linux 和 macOS。它支持与 GitHub、Bitbucket 和 GitLab 集成，并具有日常工作所需的所有必要功能，如查看更改历史记录、提交和接收更改、在分支之间切换以及内置冲突解决编辑器。
 
 ---
 

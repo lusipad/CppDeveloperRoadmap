@@ -39,9 +39,9 @@
 
 ## :electric_plug: Hard skills
 
-- [MSDN](https://docs.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-160)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170)
 
-    If you are just starting on your learning journey, it is recommended to begin practicing and doing exercises in the IDE Microsoft Visual Studio (Community Edition). It is currently one of the most user-friendly IDEs for beginners, both in terms of installation and usage, and it's completely free! This will allow you to focus on the language and not be burdened by the development environment. A helpful guidebook on MSDN explains the steps to install Visual Studio, create your first console project, and implement your first application.
+    If you are just starting on your learning journey, it is recommended to begin practicing and doing exercises in the IDE Microsoft Visual Studio (Community Edition). It is currently one of the most user-friendly IDEs for beginners, both in terms of installation and usage, and it's completely free! This will allow you to focus on the language and not be burdened by the development environment. A helpful guide on Microsoft Learn explains the steps to install Visual Studio, create your first console project, and implement your first application.
 
 ---
 

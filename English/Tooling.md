@@ -51,7 +51,7 @@ Newborn developers often have a limited understanding of the tools available to 
     Eclipse is a highly capable multi-platform development environment, but it is also quite heavy. One of the key features of Eclipse is its modularity. The philosophy of Eclipse is that any developer can modify the development environment to fit their needs by connecting additional extensions. It is used as a foundation by some compiler developers for specialized OS or microcontrollers, such as the QNX real-time OS, Red-Hat Linux and more.
 
 
-* :arrow_forward: **JetBrains Clion IDE**
+* :arrow_forward: **JetBrains CLion IDE**
 
     Site: https://www.jetbrains.com/clion
 
@@ -86,7 +86,7 @@ Newborn developers often have a limited understanding of the tools available to 
 
 ## :electric_plug: Package managers and build systems
 
-* :arrow_forward: **Cmake**
+* :arrow_forward: **CMake**
 
     Site: https://cmake.org
 
@@ -121,7 +121,7 @@ Newborn developers often have a limited understanding of the tools available to 
     Cross-platform (Windows, Linux, MacOS) static code analyzer by PVS-Studio. The main aim of the analyzer is to analyze the source code for various errors that may go undetected by compilers or during code review. It helps reduce the number of errors related to language syntax and pitfalls.
 
 
-* :arrow_forward: **Cpp Check**
+* :arrow_forward: **Cppcheck**
 
     Site: https://cppcheck.sourceforge.io
 
@@ -146,7 +146,7 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Price: free for open source projects
 
-    A complete, cross-platform tool for working with Git repositories. Out of the box, it provides the following features: receiving and sending changes to the repository, viewing the history of changes, a text editor for resolving conflicts, etc. Supports integration with all popular repositories like GitHub, BitBucket, GitLab, etc.
+    A complete, cross-platform tool for working with Git repositories. Out of the box, it provides the following features: receiving and sending changes to the repository, viewing the history of changes, a text editor for resolving conflicts, etc. Supports integration with all popular repositories like GitHub, Bitbucket, GitLab, etc.
 
 * :arrow_forward: **Atlassian SourceTree**
 
@@ -154,16 +154,16 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Price: free
 
-    A great free alternative for working with Git using a GUI. It has the same functionality as SmartGit, with the exception of the absence of its own editor for conflict resolution. However, this can be easily fixed by integrating Visual Studio Code or any other editor that can compare files. In all other respects, it completely duplicates the functionality of SmartGit: it is cross-platform and supports integration with popular repositories such as GitHub, BitBucket, GitLab, etc.
+    A great free alternative for working with Git using a GUI. It has the same functionality as SmartGit, with the exception of the absence of its own editor for conflict resolution. However, this can be easily fixed by integrating Visual Studio Code or any other editor that can compare files. In all other respects, it completely duplicates the functionality of SmartGit: it is cross-platform and supports integration with popular repositories such as GitHub, Bitbucket, GitLab, etc.
 
 
-* :arrow_forward: **Git Kraken**
+* :arrow_forward: **GitKraken**
 
     Site: https://www.gitkraken.com/
 
     Price: free for open source projects
 
-    A cross-platform and highly efficient client for Windows, Linux, and MacOS. It supports integration with GitHub, Bitbucket, and Gitlab, and has all the necessary functionality for everyday work, such as viewing the change history, submitting and receiving changes, switching between branches, and a built-in conflict resolution editor.
+    A cross-platform and highly efficient client for Windows, Linux, and macOS. It supports integration with GitHub, Bitbucket, and GitLab, and has all the necessary functionality for everyday work, such as viewing the change history, submitting and receiving changes, switching between branches, and a built-in conflict resolution editor.
 
 ---
 

@@ -15,7 +15,7 @@ A collection of projects is offered by various companies and the community as pa
 
 The repository holds a collection of pet projects for different programming languages, including an extensive list of ideas for C++.
 
-* [Programming challenges](https://challenges.jeremyjaydan.com/) - [PNG image](https://challenges.jeremyjaydan.com/media/programming-challenges-v4.0.png)
+* [Programming challenges](https://github.com/JeremyJaydan/programming-challenges) - [PNG image](https://raw.githubusercontent.com/JeremyJaydan/programming-challenges/main/media/programming-challenges-v4.0.png)
 
 The Roulette of Ideas for Pet Projects allows you to set the desired complexity level and spin the wheel. The result of the spin will determine the task for you to solve, chosen randomly. :)
 
@@ -57,7 +57,7 @@ Here are some examples of potential projects for beginners:
 - A calculator
 - A file manager
 - A currency converter
-- Retrieving a list of "pull-requests" or "issues" from any Github repository
+- Retrieving a list of "pull requests" or "issues" from any GitHub repository
 - Automating routine tasks, such as various calculations and generating reports in the form of tables.
 
 --- 

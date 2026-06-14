@@ -2,7 +2,7 @@
 
 The main piece of advice that can be given is that you should understand that you are solely responsible for your own development. Of course, you will come across many enthusiasts who will be happy to offer you advice, but no one will create specific tasks or training programs for you. Your best friends in this process will be yourself, Google search, and tutorials.
 
-## :question: How to study new C++ 11/14/17/20 standards?
+## :question: How to study modern C++ standards?
 
 Beginners should not focus too much on standards at the start of their journey. It's recommended to pick up books from the [Beginner's List](Books/PreJunior.md) and learn the fundamentals. Modern books for beginners typically contain limited information about the capabilities of C++11 and newer standards. In the beginning, it's best not to focus on the new language standards.
 
