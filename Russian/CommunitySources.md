@@ -10,6 +10,22 @@
 - [Новости от комитета стандартизации С++ (ENG)](https://isocpp.org/)
 - [C++ Online Compiler Explorer](https://gcc.godbolt.org)
 
+## :gear: Стандарты и поддержка компиляторов
+
+- [Поддержка стандартов C++ в GCC](https://gcc.gnu.org/projects/cxx-status.html)
+- [Статус C++ в Clang](https://clang.llvm.org/cxx_status.html)
+- [Соответствие языка в MSVC](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance)
+- [Материалы WG21 и рабочие черновики](https://www.open-std.org/jtc1/sc22/wg21/)
+
+## :wrench: Документация по инструментам
+
+- [Документация CMake](https://cmake.org/cmake/help/latest/)
+- [Документация Conan](https://docs.conan.io/2/)
+- [Документация vcpkg](https://learn.microsoft.com/en-us/vcpkg/)
+- [clangd](https://clangd.llvm.org/)
+- [clang-tidy](https://clang.llvm.org/extra/clang-tidy/)
+- [LLVM sanitizers](https://clang.llvm.org/docs/)
+
 ## :satellite: Популярные конференции по С++
 
 - [C++ Russia](https://cppconf.ru/)

@@ -58,6 +58,26 @@
 
     这是一个用于分布式编译项目的应用程序/扩展，它将所有开发者工作站合并成一个单一的网络，提供使用数十台机器来组装和编译源代码的可能性。这可以加速大型项目的构建过程。
 
+## :keyboard: 语言服务和格式化
+
+* :arrow_forward: **clangd**
+
+    网址：https://clangd.llvm.org/
+
+    用于 C 和 C++ 的语言服务器，可为 Visual Studio Code、Vim/Neovim 等编辑器提供补全、跳转、诊断和重构能力。
+
+* :arrow_forward: **clang-format**
+
+    网址：https://clang.llvm.org/docs/ClangFormat.html
+
+    源代码格式化工具，帮助团队自动保持一致的代码风格，常用于本地开发和 CI 检查。
+
+* :arrow_forward: **clang-tidy**
+
+    网址：https://clang.llvm.org/extra/clang-tidy/
+
+    LLVM 项目的静态分析和 lint 工具，可以发现容易出错的写法、现代化改进机会、可读性问题和风格违规。
+
 ## :electric_plug: 包管理器和构建系统
 
 * :arrow_forward: **CMake**
@@ -65,14 +85,27 @@
     网址：https://cmake.org  
     价格：免费
 
-    一个跨平台的自动化系统，用于从源代码构建应用程序，并生成必要的工件以便在目标平台上进行后续组装。它目前被认为是从源码构建各种库时的标准工具。
+    一个跨平台的自动化系统，用于从源代码构建应用程序，并生成必要的工件以便在目标平台上进行后续组装。它目前被认为是许多 C 和 C++ 项目的标准构建工具。
+
+* :arrow_forward: **CMake Presets**
+
+    网址：https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html
+
+    CMake 中用于保存常见 configure、build、test 和 package 设置的功能，通常写在 `CMakePresets.json` 中。它可以帮助团队共享可复现的本地和 CI 构建流程。
 
 * :arrow_forward: **Conan**
 
     网址：https://conan.io  
     价格：免费
 
-    一个用于组织 C++ 库和框架的软件包管理器和依赖项管理器。它支持在 Windows 和 Linux 等各种平台上工作，并与 CMake 和 Visual Studio 等工具集成。
+    一个用于组织 C++ 库和框架的软件包管理器和依赖项管理器。现代 Conan 2 工作流与 CMake 集成良好，适合需要明确控制二进制包、profile 和构建设置的团队。
+
+* :arrow_forward: **vcpkg**
+
+    网址：https://learn.microsoft.com/en-us/vcpkg/
+    价格：免费
+
+    跨平台 C/C++ 包管理器。它的 manifest mode 可以让项目通过 `vcpkg.json` 声明依赖，使开发者机器和 CI 中的依赖更容易复现。
 
 * :arrow_forward: **Ninja**
 
@@ -81,7 +114,7 @@
 
     C 和 C++ 应用程序的项目构建管理器。该管理器的主要优点是快速项目组装。它支持跨平台开发，并与所有流行的编译器兼容。
 
-## :mag: 代码分析器
+## :mag: 代码分析器和运行时检查
 
 * :arrow_forward: **PVS Studio**
 
@@ -103,6 +136,44 @@
     价格：免费
 
     一组工具，可以帮助您在应用程序运行时调查各种问题，例如内存泄漏和性能分析。它与多个 Linux 发行版兼容。
+
+* :arrow_forward: **Sanitizers**
+
+    网址：https://clang.llvm.org/docs/
+
+    AddressSanitizer、UndefinedBehaviorSanitizer、ThreadSanitizer、MemorySanitizer 等运行时检查工具可以在开发和 CI 阶段捕获内存、未定义行为和并发问题。
+
+* :arrow_forward: **CodeQL**
+
+    网址：https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql
+
+    语义代码分析引擎，可通过 GitHub code scanning 检查 C 和 C++ 项目中的安全性和正确性问题。
+
+## :test_tube: 测试和自动化
+
+* :arrow_forward: **GoogleTest**
+
+    网址：https://google.github.io/googletest/
+
+    广泛使用的 C++ 测试和 mock 框架，是商业项目和开源项目中常见的单元测试选择。
+
+* :arrow_forward: **Catch2**
+
+    网址：https://github.com/catchorg/Catch2
+
+    C++ 测试框架，适合小型项目、示例代码和可读性较强的测试用例。
+
+* :arrow_forward: **libFuzzer**
+
+    网址：https://llvm.org/docs/LibFuzzer.html
+
+    覆盖率引导的 fuzzing 引擎，通过自动生成大量输入来发现崩溃和边界情况。
+
+* :arrow_forward: **GitHub Actions**
+
+    网址：https://docs.github.com/en/actions
+
+    常见 CI 平台，可在每次变更时构建、测试、lint 和打包 C++ 项目。
 
 ## :floppy_disk: Git 客户端
 

@@ -9,6 +9,22 @@
 - [News from the C++ Standardization Committee](https://isocpp.org/)
 - [C++ Online Compiler Explorer](https://gcc.godbolt.org)
 
+## :gear: 标准与编译器支持
+
+- [GCC C++ Standards Support](https://gcc.gnu.org/projects/cxx-status.html)
+- [Clang C++ Status](https://clang.llvm.org/cxx_status.html)
+- [MSVC language conformance](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance)
+- [WG21 papers and working drafts](https://www.open-std.org/jtc1/sc22/wg21/)
+
+## :wrench: 工具链文档
+
+- [CMake documentation](https://cmake.org/cmake/help/latest/)
+- [Conan documentation](https://docs.conan.io/2/)
+- [vcpkg documentation](https://learn.microsoft.com/en-us/vcpkg/)
+- [clangd](https://clangd.llvm.org/)
+- [clang-tidy](https://clang.llvm.org/extra/clang-tidy/)
+- [LLVM sanitizers](https://clang.llvm.org/docs/)
+
 ## :satellite: 流行的 C++ 会议
 
 - [C++ Russia](https://cppconf.ru/en)
@@ -37,4 +53,4 @@
 
 ---
 
-[**To main page**](README.md)
+[**回到主页**](README.md)

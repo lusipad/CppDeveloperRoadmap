@@ -10,6 +10,7 @@ It is a developer who not only understands the technical aspects, but also the b
 - Ability to hold a dialogue with the business and explain technical details and difficulties to non-technical stakeholders
 - Ability to not only make design decisions, but also create component and application architecture
 - Understanding and use of architectural principles.
+- Ability to define project-level C++ policy: supported standard versions, toolchains, dependency management, quality gates, and migration strategy.
 
 ## :bust_in_silhouette: What general skills are expected?
 

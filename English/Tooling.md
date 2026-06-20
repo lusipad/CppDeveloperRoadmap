@@ -78,13 +78,39 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Application/extension for distributed compilation of projects, which unites all developer workstations into a single network, providing the possibility of using dozens of machines to assemble and compile the source code. This speeds up the build process for large projects.
 
+## :keyboard: Language services and formatting
+
+* :arrow_forward: **clangd**
+
+    Site: https://clangd.llvm.org/
+
+    A language server for C and C++ that powers code completion, navigation, diagnostics, and refactoring in many editors, including Visual Studio Code and Vim/Neovim.
+
+* :arrow_forward: **clang-format**
+
+    Site: https://clang.llvm.org/docs/ClangFormat.html
+
+    A source code formatter that helps teams keep a consistent style automatically. It is commonly used locally and in CI checks.
+
+* :arrow_forward: **clang-tidy**
+
+    Site: https://clang.llvm.org/extra/clang-tidy/
+
+    A static analysis and linting tool from the LLVM project. It can find bug-prone patterns, modernization opportunities, readability issues, and style violations.
+
 ## :electric_plug: Package managers and build systems
 
 * :arrow_forward: **CMake**
 
     Site: https://cmake.org
 
-    A cross-platform automation system for building an application from source code, which generates the necessary artifacts for subsequent assembly on the target platform. It is currently considered the standard tool for building various libraries when supplied as source.
+    A cross-platform automation system for building an application from source code, which generates the necessary artifacts for subsequent assembly on the target platform. It is currently considered the standard tool for building many C and C++ projects.
+
+* :arrow_forward: **CMake Presets**
+
+    Site: https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html
+
+    A CMake feature for storing common configure, build, test, and package settings in `CMakePresets.json`. It helps teams share repeatable local and CI build workflows.
 
 * :arrow_forward: **Conan**
 
@@ -92,7 +118,15 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Price: free
 
-    A package manager and dependency manager for organizing C++ libraries and frameworks. It supports work on various platforms such as Windows and Linux, and has integration with tools such as CMake and Visual Studio.
+    A package manager and dependency manager for organizing C++ libraries and frameworks. Modern Conan 2 workflows integrate well with CMake and are often used when teams need explicit control over binary packages, profiles, and build settings.
+
+* :arrow_forward: **vcpkg**
+
+    Site: https://learn.microsoft.com/en-us/vcpkg/
+
+    Price: free
+
+    A cross-platform C and C++ package manager. Its manifest mode lets a project declare dependencies in `vcpkg.json`, which makes dependencies easier to reproduce across developer machines and CI.
 
 * :arrow_forward: **Ninja**
 
@@ -102,7 +136,7 @@ Newborn developers often have a limited understanding of the tools available to 
 
     Project build manager for C and C++ applications. The main advantage of this manager is quick project assembly. It supports cross-platform development and works with all popular compilers.
 
-## :mag: Code analyzers
+## :mag: Code analyzers and runtime checks
 
 * :arrow_forward: **PVS Studio**
 
@@ -127,6 +161,44 @@ Newborn developers often have a limited understanding of the tools available to 
     Price: free
 
     A set of tools that can help you investigate various problems while the application is running, such as memory leaks and performance profiling. It is compatible with multiple Linux distributions.
+
+* :arrow_forward: **Sanitizers**
+
+    Site: https://clang.llvm.org/docs/
+
+    Runtime checkers such as AddressSanitizer, UndefinedBehaviorSanitizer, ThreadSanitizer, and MemorySanitizer help catch memory, undefined behavior, and concurrency issues during development and CI.
+
+* :arrow_forward: **CodeQL**
+
+    Site: https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql
+
+    A semantic code analysis engine that can be used in GitHub code scanning to find security and correctness issues in C and C++ projects.
+
+## :test_tube: Testing and automation
+
+* :arrow_forward: **GoogleTest**
+
+    Site: https://google.github.io/googletest/
+
+    A widely used C++ testing and mocking framework. It is a common choice for unit tests in commercial and open-source projects.
+
+* :arrow_forward: **Catch2**
+
+    Site: https://github.com/catchorg/Catch2
+
+    A C++ testing framework that is convenient for small projects, examples, and readable test cases.
+
+* :arrow_forward: **libFuzzer**
+
+    Site: https://llvm.org/docs/LibFuzzer.html
+
+    A coverage-guided fuzzing engine for finding crashes and edge cases by generating large numbers of inputs automatically.
+
+* :arrow_forward: **GitHub Actions**
+
+    Site: https://docs.github.com/en/actions
+
+    A common CI platform for building, testing, linting, and packaging C++ projects on every change.
 
 ## :floppy_disk: Git clients
 

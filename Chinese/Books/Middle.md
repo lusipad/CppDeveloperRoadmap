@@ -4,7 +4,7 @@
 
 - [Scott Meyers - Effective Modern C++：改善 C++11 和 C++14](https://book.douban.com/subject/30178902/)
 
-    这是 Scott Meyers 的书籍系列中的新章节。本书汇编了一组针对 C++11 / 14 标准的技巧。
+    本书汇编了一组针对 C++11/14 标准的实用技巧。它已经不是当前 C++ 标准指南，但仍然是理解现代 C++ 风格基础的优秀书籍。
 
 - [Anthony Williams - C++ 并发编程实战](https://book.douban.com/subject/35653912/)
 
@@ -18,7 +18,25 @@
      这些书籍涵盖了许多与在 C++ 中设计或编写代码相关的任务，并提供了一系列有效解决方案。其中许多解决方案被认为是经典习惯用法，广泛应用于各种项目中。
 
 - [David Vandevoorde - C++ Templates: The Complete Guide](https://book.douban.com/subject/1455780/)  
-    这本最新的关于 C++ 元编程，特别是模板的相关书籍，全面描述了近期标准中添加的相关技术和基础知识，包括 C++17。如果你想要编写通用和参数化代码，这本书将成为你不可或缺的资源，并提供有关模板基础知识以及与不同技术相关的许多细微差别。
+    这是一本关于 C++ 模板和元编程的综合性著作，覆盖了直到 C++17 的许多技术。如果你想要编写泛型和参数化代码，这本书将成为重要资源；但 concepts（概念）等更新特性还需要结合当前资料继续学习。
+
+## :rocket: 现代标准与参考资料
+
+- [CppReference](https://en.cppreference.com/w/cpp)
+
+    可作为日常参考，用来查询 C++20、C++23 和 C++26 中的标准库设施和特性页面。
+
+- [Compiler Explorer](https://gcc.godbolt.org)
+
+    可用于比较编译器、标准模式、生成的汇编代码以及现代特性的支持情况。
+
+- [GCC](https://gcc.gnu.org/projects/cxx-status.html)、[Clang](https://clang.llvm.org/cxx_status.html) 和 [MSVC](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance) 的编译器支持页面
+
+    这些页面可以帮助你判断某个特性是否适合当前项目，而不是只根据标准年份做决定。
+
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+    一组持续更新的指南，帮助编写更安全、更易维护的 C++ 代码。
 
 ## :bicyclist: 优化 C++应用程序
 

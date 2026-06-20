@@ -17,7 +17,9 @@ In general, the middle developer solves technical tasks, and compared to a Junio
     - source code and product storage (such as using version control systems and package managers)
     - compilation (compilers, build systems, and libraries)
     - testing (testing frameworks and strategies)
+    - code quality automation (such as formatting, static analysis, sanitizers, and CI checks)
     - shipment/deployment and execution on a target system.
+- Understands the practical status of modern C++ standards and can choose features based on compiler, platform, and team constraints rather than novelty alone.
 
 - Has a strong knowledge of computer science foundations, including data structures, graphs, finite machines, and algorithms.
 

@@ -2888,7 +2888,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="1928.7571" xml:space="preserve" y="-1283.1058" stroke="none">newest</text>
+          <text x="1928.7571" xml:space="preserve" y="-1283.1058" stroke="none">C++23</text>
         </g>
       </g>
     </g>
@@ -2901,7 +2901,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="1928.7571" xml:space="preserve" y="-1223.1058" stroke="none">C++0x</text>
+          <text x="1928.7571" xml:space="preserve" y="-1223.1058" stroke="none">C++26</text>
         </g>
       </g>
     </g>
@@ -3564,7 +3564,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="1954.7605" xml:space="preserve" y="-118.4216" stroke="none">Makefile</text>
+          <text x="1954.7605" xml:space="preserve" y="-118.4216" stroke="none">Presets</text>
         </g>
       </g>
     </g>
@@ -3577,7 +3577,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="1954.7605" xml:space="preserve" y="-58.4216" stroke="none">ninja</text>
+          <text x="1954.7605" xml:space="preserve" y="-58.4216" stroke="none">Ninja</text>
         </g>
       </g>
     </g>
@@ -3786,7 +3786,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="1932.5291" xml:space="preserve" y="884.4121" stroke="none">ranges_v3</text>
+          <text x="1932.5291" xml:space="preserve" y="884.4121" stroke="none">ranges</text>
         </g>
       </g>
     </g>
@@ -4681,7 +4681,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="2331.9524" xml:space="preserve" y="3491.4211" stroke="none">Анализаторы кода</text>
+          <text x="2331.9524" xml:space="preserve" y="3491.4211" stroke="none">Качество кода</text>
         </g>
       </g>
     </g>
@@ -4694,7 +4694,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="2589.9946" xml:space="preserve" y="3461.4211" stroke="none">Статические</text>
+          <text x="2589.9946" xml:space="preserve" y="3461.4211" stroke="none">clang-tidy</text>
         </g>
       </g>
     </g>
@@ -4707,7 +4707,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="2589.9946" xml:space="preserve" y="3521.4211" stroke="none">Динамические</text>
+          <text x="2589.9946" xml:space="preserve" y="3521.4211" stroke="none">Sanitizers</text>
         </g>
       </g>
     </g>
@@ -4720,7 +4720,7 @@
       </g>
       <g>
         <g font-size="20px" stroke-linecap="butt" transform="matrix(0.5,0,0,0.5,878,2917.5)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="2803.3477" xml:space="preserve" y="3521.4211" stroke="none">Профайлеры</text>
+          <text x="2803.3477" xml:space="preserve" y="3521.4211" stroke="none">CodeQL</text>
         </g>
       </g>
     </g>

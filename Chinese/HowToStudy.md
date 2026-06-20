@@ -4,17 +4,18 @@
 
 ## :question: 如何学习现代 C++ 标准？
 
-初学者不应该在旅途开始时过分关注标准。推荐从[初级列表](Books/PreJunior.md)中挑选书籍并学习基础知识。现代初学者书籍通常包含有限的关于 C++11 和更新标准功能的信息。一开始最好不要专注于新语言标准。
+初学者不应该在学习初期过分关注标准版本。推荐从[初级列表](Books/PreJunior.md)中挑选书籍并学习基础知识。现代初学者书籍通常会先介绍 C++11/14 形成的基础，因为这仍然是大多数现代 C++ 代码的底座。一开始更重要的是理解语言模型，而不是追逐每一个新特性。
 
 重要的是理解现代标准主要集中在修复问题、提供语法糖和引入新功能上的原因。修复问题和提供语法糖都很简单；引入新构造来纠正旧标准中存在问题，并且引入新抽象来简化重复代码。但是，在使用新功能方面则稍微麻烦些。
 
-像其他编程语言一样，C++ 通过吸收计算机科学领域流行思想以及其他编程语言成功特性而进化发展。了解这些构造并根据需要使用它们非常重要，但首先必须深入研究由较老版本（C++11/C++14）确立的基础知识，在大多数现代初级读物中都有描述。
+像其他编程语言一样，C++ 通过吸收计算机科学领域的流行思想以及其他编程语言的成功特性而进化发展。了解这些构造并根据需要使用它们非常重要，但首先必须掌握 C++11/14/17 确立的基础。之后，C++20 应该被视为现代工程中的重要基线，例如 concepts（概念）、ranges（范围）、coroutines（协程）、modules（模块）等特性会越来越多地出现在真实项目中。C++23 和 C++26 可以在基础稳定之后继续关注：它们带来有用的标准库改进，也展示了生态的发展方向，但不同编译器和项目的采用速度并不一致。
 
 ## :question: 如何了解最新的 C++ 标准特性？
 
 - 在[C++会议](CommunitySources.md)中的演示
-- 在[CppReference](https://en.cppreference.com/w/cpp)主页上，您将找到链接到最新功能概述列表页面的链接
+- 在[CppReference](https://en.cppreference.com/w/cpp)主页上，您将找到近期标准特性的概述页面
 - 您可以阅读[Bjarne Stroustrup - A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832)这本书。定期检查该书以获取更新，因为它会随着每个新版本的 C++ 标准进行修订。
+- [GCC](https://gcc.gnu.org/projects/cxx-status.html)、[Clang](https://clang.llvm.org/cxx_status.html) 和 [MSVC](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance) 的编译器支持页面可以帮助你判断哪些 C++20/23/26 特性在实践中可用
 - 专业论坛/聊天/讨论等。
 - 社区 YouTube 上的概述视频
 - [现代 C++ 语言和库功能速查表](https://github.com/AnthonyCalandra/modern-cpp-features)

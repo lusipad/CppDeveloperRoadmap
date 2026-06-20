@@ -4,7 +4,7 @@
 
 - [Scott Meyers - Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
-    It's a new chapter in the collection of books by Scott Meyers. This book compiles a set of tips for the C++11/14 standards.
+    This book compiles a set of practical tips for the C++11/14 standards. It is no longer a guide to the current C++ standard, but it is still one of the best books for understanding the foundation of modern C++ style.
 
 - [Anthony Williams - C++ Concurrency in Action](https://www.amazon.com/C-Concurrency-Action-Anthony-Williams/dp/1617294691/ref=sr_1_3?keywords=C%2B%2B+Concurrency+in+Action%3A+Practical+Multithreading&qid=1636314477&s=books&sr=1-3)
 
@@ -19,7 +19,25 @@
 
 - [David Vandevoorde - C++ Templates: The Complete Guide](https://www.amazon.com/C-Templates-Complete-Guide-2nd/dp/0321714121)
 
-    The newest and relevant book about C++ metaprogramming, specifically templates, is a comprehensive work that describes relevant techniques and foundations added in recent standards, including C++17. If you're looking to write generic and parameterized code, this book will become an indispensable resource for you, offering insights into the basics of templates as well as a multitude of nuances related to different techniques.
+    This is a comprehensive work about C++ templates and metaprogramming, including techniques added up to C++17. If you're looking to write generic and parameterized code, this book will become an indispensable resource, but newer features such as concepts should be studied from current references as well.
+
+## :rocket: Modern standards and references
+
+- [CppReference](https://en.cppreference.com/w/cpp)
+
+    Use it as a daily reference for standard library facilities and feature pages across C++20, C++23, and C++26.
+
+- [Compiler Explorer](https://gcc.godbolt.org)
+
+    A practical way to compare compilers, standard modes, generated assembly, and support for modern features.
+
+- [Compiler support pages for GCC](https://gcc.gnu.org/projects/cxx-status.html), [Clang](https://clang.llvm.org/cxx_status.html), and [MSVC](https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-language-conformance)
+
+    These pages help you decide whether a feature is ready for your project instead of relying only on the year of the standard.
+
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+    A living set of guidelines for safer and more maintainable C++ code.
 
 ## :bicyclist: Optimization for C++ applications
 
